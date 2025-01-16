@@ -36,5 +36,6 @@ public class LoginController {
 
         // returning the view
         return "templates/result.jsp";
+
     }
 }
