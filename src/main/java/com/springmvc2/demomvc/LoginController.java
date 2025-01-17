@@ -37,6 +37,6 @@ public class LoginController {
         // returning the view
         return "templates/result.jsp";
 // added this line
-        update with brqnch 2
+       // update with brqnch 2
     }
 }
